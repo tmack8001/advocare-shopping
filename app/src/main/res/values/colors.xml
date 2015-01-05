@@ -1,0 +1,18 @@
+<resources>
+    <color name="black_opaque">#AA000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!-- App Color Palette -->
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary">#3f51b5</color>
+    <color name="primary_light">#c5cae9</color>
+    <color name="accent">#448aff</color>
+
+    <color name="text_icons">@color/white</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider">#b6b6b6</color>
+
+</resources>
